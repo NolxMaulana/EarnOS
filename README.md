@@ -1,6 +1,6 @@
 # EarnOS
 ## INTRO
-script untuk menjalankan autocheckin di EarnOS `(support multi account)`
+Script khusus untuk menjalankan autocheckin di EarnOS `(support multi account)`
 ## Register EarnOS
 Join Here : https://app.earnos.com/?ref=maul
 ### STEPS
@@ -31,6 +31,6 @@ Join Here : https://app.earnos.com/?ref=maul
    node checkin.js
    ```
 ## SUPPORT
-jika ada pertanyaan, silahkan chat saya di telegram [maulexp](https://t.me/MaulExp)
+Jika ada pertanyaan, silahkan chat saya di telegram [maulexp](https://t.me/MaulExp)
 
 cc : AirdropInsider ID
