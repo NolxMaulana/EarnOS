@@ -1,6 +1,8 @@
 # EarnOS
 ## INTRO
-script untuk menjalankan autocheckin di EarnOS (support multi account)
+script untuk menjalankan autocheckin di EarnOS `(support multi account)`
+## Register EarnOS
+Join Here : https://app.earnos.com/?ref=maul
 ### STEPS
 #### 1. Clone The Repository
    ```bash
@@ -23,7 +25,7 @@ script untuk menjalankan autocheckin di EarnOS (support multi account)
    ```bash
    nano tokens.txt
    ```
-   Pastekan kode `eyJ.....` lalu save `CTRL + X + Y` Enter
+   Pastekan kode `eyJ.....` lalu save `CTRL + X + Y` `Enter`
 #### 6. Run
    ```bash
    node checkin.js
